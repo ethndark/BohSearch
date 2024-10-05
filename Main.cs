@@ -22,7 +22,6 @@ namespace BohSearch
         public static bool Load(UnityModManager.ModEntry modEntry)
         {
             mod = modEntry;
-
             mod.OnToggle = OnToggle;
             mod.OnUpdate = OnUpdate;
             return true;

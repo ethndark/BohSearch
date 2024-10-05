@@ -1,0 +1,8 @@
+{
+  "Id": "BohSearch",
+  "DisplayName": "BohSearch",
+  "Author": "Ethan",
+  "Version": "1.0.0",
+  "AssemblyName": "BohSearch.dll",
+  "EntryMethod": "BohSearch.Main.Load"
+}
