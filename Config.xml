@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="司辰之书">
+  <Folder>Book of Hours</Folder>
+  <ModsDirectory>Mods</ModsDirectory>
+  <ModInfo>Info.json</ModInfo>
+  <EntryPoint>[SecretHistories.Main.dll]SecretHistories.UI.Meniscate.Start:Before</EntryPoint>
+  <StartingPoint>[SecretHistories.Main.dll]SecretHistories.Services.Glory.Initialise:After</StartingPoint>
+  <GameExe>bh.exe</GameExe>
+</Config>
